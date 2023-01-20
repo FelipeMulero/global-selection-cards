@@ -20,7 +20,7 @@ Angular, ngx, rxjs, SCSS, TypeScript, Angular Material, Bootstrap, Karma, Jasmin
 📌 Funcionalidades
 Atualização de conteúdo em tempo real para o usuário. Usuário consegue visualizar os conteúdos que estão todos disponíveis na tela. Usuario consegue interagir com todos os conteúdos disponíveis na tela.
 
-Futuras melhorias
+# Futuras melhorias
 
 Adicionar uma API para fazer o tratamento dos investimentos e todas as ações que envolvem os resgates.
 
