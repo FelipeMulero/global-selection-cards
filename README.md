@@ -22,8 +22,8 @@ Aplicação em produção: https://global-cards.web.app/
 
 🛠️ Tecnologias utilizadas
 
-Frontend
-Angular, ngx, rxjs, SCSS, TypeScript, Angular Material, Bootstrap, Karma, Jasmine.
+Frontend:
+Angular, ngx, rxjs, SCSS, TypeScript, Angular Material, Bootstrap, Karma, Jasmine e Firebase.
 
 📌 Funcionalidades
 
