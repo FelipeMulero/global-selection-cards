@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "/dist/global-selection-cards",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

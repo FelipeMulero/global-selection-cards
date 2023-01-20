@@ -28,3 +28,5 @@ node_modules/@angular/*/fesm5/
 /dist
 
 .angular
+
+.firebase
