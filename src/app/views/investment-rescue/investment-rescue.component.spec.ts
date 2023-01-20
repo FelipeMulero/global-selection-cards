@@ -19,7 +19,7 @@ describe('InvestmentRescueComponent', () => {
     fixture.detectChanges();
   });
 
-  xit('should create', () => {
+  xit('should create investment rescue', () => {
     expect(component).toBeTruthy();
   });
 });
