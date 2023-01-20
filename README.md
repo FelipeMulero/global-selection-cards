@@ -15,6 +15,10 @@ Projeto desenvolvido para o desafio: Projeto de seleção Global Cards.
 
 Felipe Mulero
 
+#Link Util
+
+Aplicação em produção: https://global-cards.web.app/
+
 
 🛠️ Tecnologias utilizadas
 
